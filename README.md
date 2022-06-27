@@ -8,10 +8,8 @@ For many years I was unsure of what I wanted to pursue as a career, I went from 
 
 * 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [osiobomighie@outlook.com](mailto:osiobomighie@outlook.com)
-* 🔭  I’m currently working on an express, node and mongodb for an anime blog
 * 🧠  I'm learning Backend Development and Machine Learning
 * ⚡  I have watched all of One Piece, every movie and episode of the anime as well as caught up with the manga as well.
-* 😄  Pronouns: He/Him
 
 ### Skills
 
@@ -25,6 +23,7 @@ For many years I was unsure of what I wanted to pursue as a career, I went from 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
@@ -37,17 +36,17 @@ For many years I was unsure of what I wanted to pursue as a career, I went from 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Osireg17"><img src="https://github-readme-stats.vercel.app/api?username=Osireg17&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Osireg17's GitHub stats" /></a>
+<a href="http://www.github.com/Osireg17"><img src="https://github-readme-stats.vercel.app/api?username=Osireg17&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="Osireg17's GitHub stats" /></a>
 
-<a href="https://github.com/Osireg17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osireg17&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Osireg17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osireg17&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Osireg17/CashCow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Osireg17&repo=CashCow&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Osireg17/Sorting-Algorithm-Visualizer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Osireg17&repo=Sorting-Algorithm-Visualizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Osireg17/CashCow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Osireg17&repo=CashCow&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Osireg17/Sorting-Algorithm-Visualizer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Osireg17&repo=Sorting-Algorithm-Visualizer&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Osireg17/Bedwetting-Alarm-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Osireg17&repo=Bedwetting-Alarm-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Osireg17/Bedwetting-Alarm-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Osireg17&repo=Bedwetting-Alarm-System&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Osireg17/PassProtect" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Osireg17&repo=PassProtect&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
 
 
 
