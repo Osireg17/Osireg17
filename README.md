@@ -9,7 +9,7 @@ For many years I was unsure of what I wanted to pursue as a career, I went from 
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [osiobomighie@outlook.com](mailto:osiobomighie@outlook.com)
 * 🧠  I'm learning Fullstack Development and Machine Learning
-* ⚡  I like anime, and it's a reoccuring them in many of my project. I have watched all 1025 episodes of One Piece, every movie to have come out as well as read all of the manga
+* ⚡  I like anime, and it's a reoccuring theme in many of my project. I have watched all 1025 episodes of One Piece, every movie to have come out as well as read all of the manga
 
 ### Skills
 
