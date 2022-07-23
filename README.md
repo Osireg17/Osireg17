@@ -1,7 +1,7 @@
 Hi 👋 My name is Osi Obomighie
 ==============================
 
-2nd Systems Engineer @ University of Warwick
+2nd Year Systems Engineer @ University of Warwick
 --------------------------------------------
 
 For many years I was unsure of what I wanted to pursue as a career, I went from being a doctor, to wanting to study biochemistry and from there to chemical engineering and then had a mental tug of war between mechanical and eletrical engineering. But suddenly one rainy day I bought a beginners book on python programming and from that day onwards I convinced that Software Engineering was for me. Since that day I have learnt a plethora of different technologies. I have an interest in full stack software development, machine learning and cloud computing, with hopes of one day of combine my interests to develop a piece of software that will revolutionize the world.
