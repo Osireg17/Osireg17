@@ -1,11 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Osi Obomighie
 =====================================================================================================================================
 
-2nd Year System Engineer @ Warwick University
+Aspiring Software Engineer @ Warwick University
 ---------------------------------------------
 
 For many years I was unsure of what I wanted to pursue as a career, I went from being a doctor, to wanting to study biochemistry and from there to chemical engineering and then had a mental tug of war between mechanical and eletrical engineering. But suddenly one rainy day I bought a beginners book on python programming and from that day onwards I was convinced that Software Engineering was for me. Since that day I have learnt a plethora of different technologies. I have an interest in full stack software development, and machine learning, with hopes of one day of combine my interests to develop a piece of software that will revolutionize the world.
 
+* 🖥️  See my portfolio at [www.osiobomighie.tech](http://www.osiobomighie.tech)
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [osiobomighie@outlook.com](mailto:osiobomighie@outlook.com)
 * 🧠  I'm learning Fullstack Development and Machine Learning
