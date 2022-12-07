@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software Engineer @ Warwick University
 ---------------------------------------------
 
-For many years I was unsure of what I wanted to pursue as a career, I went from being a doctor, to wanting to study biochemistry and from there to chemical engineering and then had a mental tug of war between mechanical and eletrical engineering. But suddenly one rainy day I bought a beginners book on python programming and from that day onwards I was convinced that Software Engineering was for me. Since that day I have learnt a plethora of different technologies. I have an interest in full stack software development, and machine learning, with hopes of one day of combine my interests to develop a piece of software that will revolutionize the world.
+Currently an undergraduate at the University of Warwick studying Systems Engineering. I am passionate about technology and how it can be used to solve real world problems.
+
+I am also a keen learner and I am always looking to learn new technologies.
+
+I enjoy using my skills to create projects and compete in hackathons, I use them as an opportunity to learn new technologies and to work with new people and win some prizes along the way.
+
+I hope to one day create a piece of technology that I saw in an anime and make it a reality.
 
 * 🖥️  See my portfolio at [www.osiobomighie.tech](http://www.osiobomighie.tech)
 * 🌍  I'm based in London, UK
