@@ -12,7 +12,7 @@ I enjoy using my skills to create projects and compete in hackathons, I use them
 
 I hope to one day create a piece of technology that I saw in an anime and make it a reality.
 
-* 🖥️  See my portfolio at [www.osiobomighie.tech](http://www.osiobomighie.tech)
+* 🖥️  See my portfolio at [www.osiobomighie.tech](http://www.osi-obomighie.vercel.app)
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [osiobomighie@outlook.com](mailto:osiobomighie@outlook.com)
 * 🧠  I'm learning Fullstack Development and Machine Learning
