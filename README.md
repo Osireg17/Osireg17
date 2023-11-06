@@ -4,15 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software Engineer @ Warwick University
 ---------------------------------------------
 
-Currently an undergraduate at the University of Warwick studying Systems Engineering. I am passionate about technology and how it can be used to solve real world problems.
+Currently an undergraduate at the University of Warwick studying Electrical and Electronic  Engineering. I am passionate about technology and how it can be used to solve real world problems.
 
 I am also a keen learner and I am always looking to learn new technologies.
 
 I enjoy using my skills to create projects and compete in hackathons, I use them as an opportunity to learn new technologies and to work with new people and win some prizes along the way.
 
-I hope to one day create a piece of technology that I saw in an anime and make it a reality.
 
-* 🖥️  See my portfolio at [www.osiobomighie.tech](http://www.osi-obomighie.vercel.app)
+* 🖥️  See my portfolio at [www.osi-obomighie-vercel.app](http://www.osi-obomighie.vercel.app)
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [osiobomighie@outlook.com](mailto:osiobomighie@outlook.com)
 * 🧠  I'm learning Fullstack Development and Machine Learning
