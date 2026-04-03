@@ -18,7 +18,7 @@ Currently working at **HubSpot**, where I:
   Basically automated code reviews so I don't need to review my code.
 
 - 📖 **Kingdom Code**  
-  Helping a friend out in a hackathon. It's a cool project so go check it out at www.biblegame.com
+  Helping a friend out in a hackathon. It's a cool project so go check it out at https://bible.game/
 ---
 
 ### 🛠️ Tech I Use to Break (and Fix) Things
