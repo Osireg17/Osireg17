@@ -15,11 +15,10 @@ Currently working at **HubSpot**, where I:
   Built a microservices AI system where bots bid in auctions with their own personalities. Yes, they compete. Yes, it gets intense.
 
 - 🤖 **AI Code Reviewer**  
-  Basically automated code reviews so engineers can argue less (in theory).
+  Basically automated code reviews so I don't need to review my code.
 
 - 📖 **Kingdom Code**  
-  AI-powered system for generating and improving content — with a feedback loop so it doesn’t stay dumb forever.
-
+  Helping a friend out in a hackathon. It's a cool project so go check it out at www.biblegame.com
 ---
 
 ### 🛠️ Tech I Use to Break (and Fix) Things
