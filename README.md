@@ -42,8 +42,6 @@ Tools: Kafka, Docker, Spring, React, PostgreSQL, Redis, TensorFlow
 
 - 🌐 Portfolio: https://www.osiobomighie.co.uk  
 - 💼 LinkedIn: https://www.linkedin.com/in/osiobomighie  
-- 📬 Email: osiobomighie@outlook.com  
-
 ---
 
 ### 📊 GitHub Stats (evidence that I touch code)
